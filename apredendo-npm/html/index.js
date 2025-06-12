@@ -1,3 +1,10 @@
-let teste = document.getElementsByClassName("title-pink")
+let button = document.getElementById('button')
+let texts = document.getElementById('title-pink')
 
-console.log(test)
+button.addEventListener('click', function () {
+  
+    for ( let index = 0; index < texts.length; index++){
+        texts[index].textContent = "texto alterado"
+}
+})  
+

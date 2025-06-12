@@ -1,17 +1,17 @@
 h1 {
-    color: brown
+    color: brown;
 }
 
 body{
-    background-color: black;
+    background-color: rgb(194, 152, 152);
 }
 
-#text-green {
+#text-green{
     color: green;
 }
 
-#text-yellow{
-    color:yellow ;
+#text-blue{
+    color:rgb(16, 6, 75);
 
 }
 
