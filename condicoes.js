@@ -39,5 +39,4 @@ function dayOfTheWeek(dia){
             return "Dia da semana não localizado"
     }
 }
-
 console.log(dayOfTheWeek(9))
