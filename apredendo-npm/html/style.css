@@ -1,0 +1,21 @@
+h1 {
+    color: brown
+}
+
+body{
+    background-color: black;
+}
+
+#text-green {
+    color: green;
+}
+
+#text-yellow{
+    color:yellow ;
+
+}
+
+.title-pink{
+    color: rgb(219, 16, 152);
+
+}
